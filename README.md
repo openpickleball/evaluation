@@ -23,6 +23,7 @@ Start with [`writeup.md`](writeup.md). Its "Limitations first" section comes bef
 | `reports/v1-gap-2026-11/` | What a rating gap means under `v1`, as point share and win probability |
 | `reports/declared-scale-2026-11/`, `reports/ridge-check-2026-11/`, `reports/side-out-unit-2026-11/` | Checks on the rating scale and K |
 | `reports/behavior-2026-11/` | System behavior, doubles and gaming on simulated leagues, with CSV and figure files |
+| `preregistration/` | The locked plan for a pre-registered test on play after 2026-11-24, and its lock record. Not yet scored |
 
 ## What is not here
 
